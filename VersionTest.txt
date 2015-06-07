@@ -1,1 +1,1 @@
-Test the version control on this file (This is VERSION 3)
+Test the version control on this file (This is VERSION 3) -- Plus one
